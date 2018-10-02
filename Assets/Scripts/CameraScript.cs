@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraScript : MonoBehaviour {
+public class CameraScript : MonoBehaviour
+{
 
     public GameObject player;
 
@@ -13,9 +14,8 @@ public class CameraScript : MonoBehaviour {
         offset = transform.position - player.transform.position;
     }
 
-    // Update is called once per frame
-    void LateUpdate ()
+    void LateUpdate()
     {
-            transform.position = player.transform.position + offset;
+        transform.position = player.transform.position + offset;
     }
 }
