@@ -6,8 +6,8 @@
 
 
 ## Taskliste
-* [*] Create little Area to test on
-* [*] Controls
+* [x] Create little Area to test on
+* [x] Controls
 * [ ] Animations
     * [ ] Walking/Running
     * [ ] Jumping 
