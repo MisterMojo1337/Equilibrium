@@ -2,7 +2,7 @@
 
 ## Allgemeines
 - Erstmal nur eine Rasse (alles andere wird schwer aber kommt auch noch)
-- Grafik wird periodisch verbessert!
+- Grafik erstmal sehr blocky
 
 
 ## Taskliste
