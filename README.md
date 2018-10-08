@@ -22,6 +22,7 @@
 - *später* Sekundärstäts
 
 ## Roles (Classes)
+#### siehe Klassenfähigkeiten-Ordner
 - Magier
     - Elementar 
         - Basiert auf Beschwörungen (Elementare (Steine, Bäume, etc.))
