@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 8cd6f825c8ddb14409bdd95a982cea46
+guid: 5a320fb5f0f34904a86c2166864834a1
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Character
+    100000: Forge
     100002: //RootNode
-    400000: Character
+    400000: Forge
     400002: //RootNode
     2100000: palette
-    2300000: Character
-    3300000: Character
-    4300000: Character
-    6400000: Character
+    2300000: Forge
+    3300000: Forge
+    4300000: Forge
+    6400000: Forge
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,7 +44,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 3
+    meshCompression: 0
     addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
@@ -70,7 +70,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
