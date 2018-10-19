@@ -2,12 +2,12 @@
 
 ## Allgemeines
 - Erstmal nur eine Rasse (alles andere wird schwer aber kommt auch noch)
-- Grafik wird periodisch verbessert!
+- Grafik erstmal sehr blocky
 
 
 ## Taskliste
-* [ ] Create little Area to test on
-* [ ] Controls
+* [x] Create little Area to test on
+* [x] Controls
 * [ ] Animations
     * [ ] Walking/Running
     * [ ] Jumping 
@@ -22,6 +22,7 @@
 - *später* Sekundärstäts
 
 ## Roles (Classes)
+#### siehe Klassenfähigkeiten-Ordner
 - Magier
     - Elementar 
         - Basiert auf Beschwörungen (Elementare (Steine, Bäume, etc.))

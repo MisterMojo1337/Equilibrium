@@ -1,17 +1,16 @@
 fileFormatVersion: 2
-guid: 8cd6f825c8ddb14409bdd95a982cea46
+guid: 78eab79fad5bbea48b54a65f4181d230
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Character
+    100000: Merchant
     100002: //RootNode
-    400000: Character
+    400000: Merchant
     400002: //RootNode
     2100000: palette
-    2300000: Character
-    3300000: Character
-    4300000: Character
-    6400000: Character
+    2300000: Merchant
+    3300000: Merchant
+    4300000: Merchant
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,8 +43,8 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 3
-    addColliders: 1
+    meshCompression: 0
+    addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -70,7 +69,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 8cd6f825c8ddb14409bdd95a982cea46
+guid: dba41bc76d5a5ff47a36dbf85587f176
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Character
+    100000: House1
     100002: //RootNode
-    400000: Character
+    400000: House1
     400002: //RootNode
     2100000: palette
-    2300000: Character
-    3300000: Character
-    4300000: Character
-    6400000: Character
+    2300000: House1
+    3300000: House1
+    4300000: House1
+    6400000: House1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -70,7 +70,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
