@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Merchant : BaseNpc {
 
+    public GameObject ShopLayer;
+
+
     private void OnTriggerEnter(Collider other)
     {
         var counter = 0;
@@ -11,6 +14,7 @@ public class Merchant : BaseNpc {
         {
             Debug.Log("Oh Hallo!");
             counter++;
+            ShopLayer.SetActive(true);
             //Instantiate Shop
         }
     }
@@ -18,6 +22,7 @@ public class Merchant : BaseNpc {
     private void OnTriggerExit(Collider other)
     {
         //Exit Shop
+        ShopLayer.SetActive(false);
         Debug.Log("Tschüss!");
     }
 }
