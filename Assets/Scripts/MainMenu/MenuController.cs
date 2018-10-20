@@ -21,6 +21,6 @@ public class MenuController : MonoBehaviour {
 
     public void LoadLevel()
     {
-        Application.LoadLevel("TestScene");
+        Application.LoadLevel("testnav");
     }
 }
