@@ -96,7 +96,7 @@
         - Low DpS
 
 
-- Healbitch 
+- Allrounder 
     - Druide
         - Einzelziel-Hots und Gruppen-Hots
         - Vertraut auf Natur um Verbündete zu beschützen
