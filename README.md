@@ -22,6 +22,7 @@
 - *später* Sekundärstäts
 
 ## Roles (Classes)
+#### siehe Klassenfähigkeiten-Ordner
 - Magier
     - Elementar 
         - Basiert auf Beschwörungen (Elementare (Steine, Bäume, etc.))
@@ -95,7 +96,7 @@
         - Low DpS
 
 
-- Healbitch 
+- Allrounder 
     - Druide
         - Einzelziel-Hots und Gruppen-Hots
         - Vertraut auf Natur um Verbündete zu beschützen

@@ -3,26 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Movement : MonoBehaviour {
+    
+    public float turnSpeed = 150f;
+    public float movementSpeed = 15f;
 
+    private void Update()
+    {
 
-	
-	// Update is called once per frame
-	void FixedUpdate () {
-        if (Input.GetKey(KeyCode.W))
-        {
-            transform.Translate(new Vector3(-5 * Time.deltaTime, 0, 0));
-        }
-        if (Input.GetKey(KeyCode.A))
-        {
-            transform.Translate(new Vector3(0, 0, -5 * Time.deltaTime));
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            transform.Translate(new Vector3(0, 0, 5 * Time.deltaTime));
-        }
-        if (Input.GetKey(KeyCode.S))
-        {
-            transform.Translate(new Vector3(5 * Time.deltaTime, 0, 0));
-        }
+        float x = Input.GetAxisRaw("Horizontal") * Time.deltaTime * movementSpeed;
+        float z = Input.GetAxisRaw("Vertical")* Time.deltaTime * turnSpeed;
+
+        transform.Rotate(0, x, 0);
+        transform.Translate(0, 0, z);
     }
 }
