@@ -58,7 +58,7 @@
         - High Mobility
         - vulnerable wenn Sachen auf CD
     - Pirat
-        - Besitzt kleines Pet (Eule, Papagei, Ratte?)
+        - Besitzt kleines Pet (Affe, Papagei, Ratte?)
         - Halber Fernkämpfer (Hat Pistole, benutztbar nur über Fähigkeiten)
         - Pet kann Sachen klauen
     - Giftmischer
@@ -80,7 +80,7 @@
         - einzelne Fähigkeiten mit Dots stehen zur verfügung
 
 
-- Utility Klasse (TODO Name)
+- Spezialisten
     - Schamane 
         - Stellt Totems auf um Verbündete zu buffen (Langzeit)
         - Melee
