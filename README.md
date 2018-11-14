@@ -73,7 +73,7 @@
         - Bond zwischen Meister und Tieren (Je besserer Bond desto bessere was?)
     - Scharfschütze
         - Langsame Attacken
-        - Große Durchschlagskraft
+        - Große Durchschlagskraft (50% Rüstung ignorieren?)
     - Fallensteller
         - Bolawerfer, Jeder Autoattack slowed
         - kann Gegnern fallen stellen
@@ -137,7 +137,7 @@
 - Bergbau
 - Kürschnerei
 - Schmiedekunst
-- Lederverarbeitung
+- Lederverarbeitung/Gerberei
 - Schneider
 - Runenschnitzer 
 - Alchemist
