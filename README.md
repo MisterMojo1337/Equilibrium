@@ -58,7 +58,7 @@
         - High Mobility
         - vulnerable wenn Sachen auf CD
     - Pirat
-        - Besitzt kleines Pet (Eule, Papagei, Ratte?)
+        - Besitzt kleines Pet (Affe, Papagei, Ratte?)
         - Halber Fernkämpfer (Hat Pistole, benutztbar nur über Fähigkeiten)
         - Pet kann Sachen klauen
     - Giftmischer
@@ -73,14 +73,14 @@
         - Bond zwischen Meister und Tieren (Je besserer Bond desto bessere was?)
     - Scharfschütze
         - Langsame Attacken
-        - Große Durchschlagskraft
+        - Große Durchschlagskraft (50% Rüstung ignorieren?)
     - Fallensteller
         - Bolawerfer, Jeder Autoattack slowed
         - kann Gegnern fallen stellen
         - einzelne Fähigkeiten mit Dots stehen zur verfügung
 
 
-- Utility Klasse (TODO Name)
+- Spezialisten
     - Schamane 
         - Stellt Totems auf um Verbündete zu buffen (Langzeit)
         - Melee
@@ -137,7 +137,7 @@
 - Bergbau
 - Kürschnerei
 - Schmiedekunst
-- Lederverarbeitung
+- Lederverarbeitung/Gerberei
 - Schneider
 - Runenschnitzer 
 - Alchemist
