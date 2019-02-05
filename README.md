@@ -118,7 +118,7 @@
 - Muss man noch herausfinden (was halt besser zum Flow passt)
   
 
-## Story (mit Mechanics) 
+## Gameplay
 - Spieler wird von Dorfbewohnern geweckt 
 - Dorf brennt ab
 - Spieler wird beauftragt
@@ -130,6 +130,7 @@
 - pi pa po 
 - Spieler findet Schmied (oder andere Professions) und bringt sie in Dorf
 - Dorf baut sich langsam auf und Spieler kann immer mehr in der Stadt machen
+- Ressourcen durch Gebiet?
 
 
 ## Professions
